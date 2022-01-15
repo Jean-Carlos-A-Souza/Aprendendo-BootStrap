@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgba(63, 192, 224, 0.589);
+}
+
+.intro{
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.nav-item a:hover { color: rgba(190, 137, 87, 0.774) !important; 
+
+}
+
+.bootcamps{
+    background-color: rgba(43, 189, 140, 0.24);
+}
